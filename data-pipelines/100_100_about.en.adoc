@@ -4,7 +4,7 @@
 
 Data pipelines provides components to integrate, structure, interpret and transform biodiversity data. Built for extensibility, portability and high performance, data pipelines powers services such as https://www.gbif.org/[GBIF.org].
 
-image::img/pipeline.png[]
+image::../img/pipeline.png[]
 
 === Features
 

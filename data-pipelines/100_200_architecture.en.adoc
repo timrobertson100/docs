@@ -4,4 +4,4 @@ The data pipeline project comprises of a collection of components which can be u
 
 === Deployment example 1: GBIF
 
-image::img/pipeline.png[]
+image::../img/pipeline.png[]

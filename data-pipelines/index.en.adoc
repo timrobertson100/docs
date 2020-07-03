@@ -6,7 +6,7 @@
 :revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
 //:title-logo-image: img/web/photo.jpg
 :license: https://creativecommons.org/licenses/by/4.0/
-//:doctype: book
+:doctype: book
 // The value of the idprefix attribute (_ by default) is prepended.
 :idprefix:
 :idseparator: -
@@ -17,23 +17,23 @@ endif::backend-html5[]
 
 :sectnums!:
 
-include::colophon.en.adoc[]
+//include::colophon.en.adoc[]
 
 :sectnums:
 
-include::100_100_about.en.adoc[]
+include::data-pipelines/100_100_about.en.adoc[]
 
-include::100_200_architecture.en.adoc[]
+include::data-pipelines/100_200_architecture.en.adoc[]
 
-include::100_300_roadmap.en.adoc[]
+include::data-pipelines/100_300_roadmap.en.adoc[]
 
-include::200_100_preparation.en.adoc[]
+include::data-pipelines/200_100_preparation.en.adoc[]
 
-include::300_100_indexing.en.adoc[]
+include::data-pipelines/300_100_indexing.en.adoc[]
 
-include::400_100_formats.en.adoc[]
+include::data-pipelines/400_100_formats.en.adoc[]
 
-include::500_100_community.en.adoc[]
+include::data-pipelines/500_100_community.en.adoc[]
 
 = Part 1
 
