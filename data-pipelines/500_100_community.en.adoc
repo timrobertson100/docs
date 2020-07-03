@@ -1,0 +1,26 @@
+= Community
+
+== GBIF Pipelines Specification
+
+The GBIF …
+
+=== Commands
+
+Build the HTML and PDF documents:
+----
+docker run --rm --user $(id -u):$(id -g) -v $PWD:/documents/ gbif/asciidoctor-toolkit
+----
+
+=== Project layout
+
+----
+index.en.adoc   # The master document file.
+*.en.adoc       # Other parts of the document
+img/            # Images
+en/             # Generated English document.
+----
+
+== Tutorials
+== Contributor guide
+== Build and releasing
+== People

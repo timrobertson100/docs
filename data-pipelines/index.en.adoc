@@ -1,0 +1,50 @@
+= Data pipelines for biodiversity data
+:authorcount: 2
+:author_1: Tim Robertson
+:author_2: Matthew Blissett
+:revnumber: {git-metadata-branch}
+:revdate: {git-metadata-date} {git-metadata-time} {git-metadata-timezone}
+//:title-logo-image: img/web/photo.jpg
+:license: https://creativecommons.org/licenses/by/4.0/
+//:doctype: book
+// The value of the idprefix attribute (_ by default) is prepended.
+:idprefix:
+:idseparator: -
+
+ifdef::backend-html5[]
+languageLinks:combined[]
+endif::backend-html5[]
+
+:sectnums!:
+
+include::colophon.en.adoc[]
+
+:sectnums:
+
+include::100_100_about.en.adoc[]
+
+include::100_200_architecture.en.adoc[]
+
+include::100_300_roadmap.en.adoc[]
+
+include::200_100_preparation.en.adoc[]
+
+include::300_100_indexing.en.adoc[]
+
+include::400_100_formats.en.adoc[]
+
+include::500_100_community.en.adoc[]
+
+= Part 1
+
+== Chapter 1
+
+=== Chapter 1 point 1
+
+== Chapter 2
+
+= Part 2
+
+== Chapter 1
+
+== Chapter 2
